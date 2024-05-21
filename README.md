@@ -22,4 +22,4 @@ Class:
  the main methods creates and array object, inserts  several items into the array, searches for and item, and prints the
  array.
 
- USAGE:
+
